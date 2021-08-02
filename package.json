@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "employee tracking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banuayozturk/employee-tracker.git"
+  },
+  "author": "banuayozturk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banuayozturk/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/banuayozturk/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.2",
+    "install": "^0.13.0",
+    "mysql2": "^2.2.5",
+    "npm": "^7.20.3"
+  }
+}
